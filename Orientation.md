@@ -4,6 +4,8 @@ I am Logan. I personally welcome you to the MEd STEM Education Program at HKU. A
 
 Please join this Discord server: [https://discord.gg/MYBxWD29](https://discord.gg/MYBxWD29). You can ask questions in the _general_ channel, so that everyone will see the questions and answers. I will make programme related announcements here. I will make class-specific announcements via class-specific channels.
 
+Please introduce yourself in your Moodel profile. Put a clear headshot photo of yours. This will help the instructors know about you and remember your name. As I will explain in the *Class Participation* below, the instructors and teaching assistants need to remember your name in order to grade your class participation. 
+
 ### What do we believe in
 
 We believe science is a collective meaning making and an ongoing negotiation. Enlightenment is a hard-fought liberation from a brain built for simplicity. Teaching is to sustain human future. Technology should be human-centered. Given this, the quality of our (I mean both mine and yours) work should reflect HKU Education's position in the top of the world. Conversely, we do not believe in, and consider it an abuse to, wielding science, technology or teaching as an exercise of power over the powerless. Most of our curriculum at the STEM Education program will make sense to you if you corroborate how we teach to this statement of our beliefs.
