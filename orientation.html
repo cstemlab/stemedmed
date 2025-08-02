@@ -57,11 +57,17 @@
 
         .accordion-item {
             border-bottom: 1px solid #e9ecef;
+            margin-bottom: 8px;
+        }
+
+        .accordion-item:last-child {
+            margin-bottom: 0;
         }
 
         .accordion-header {
             background: #fff;
             border: none;
+            border-radius: 8px;
             padding: 20px 30px;
             width: 100%;
             text-align: left;
@@ -83,6 +89,7 @@
         .accordion-header.active {
             background: #667eea;
             color: white;
+            border-radius: 8px 8px 0 0;
         }
 
         .accordion-icon {
@@ -99,6 +106,7 @@
             overflow: hidden;
             transition: max-height 0.3s ease;
             background: white;
+            border-radius: 0 0 8px 8px;
         }
 
         .accordion-content.active {
