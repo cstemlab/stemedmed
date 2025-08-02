@@ -42,7 +42,7 @@
         }
 
         .header {
-            background: linear-gradient(135deg, var(--accent-200) 0%, var(--primary-300) 100%);
+            background: linear-gradient(135deg, var(--accent-100) 0%, var(--primary-200) 100%);
             color: var(--bg-100);
             padding: 30px;
             text-align: center;
@@ -97,15 +97,15 @@
         }
 
         .accordion-header:hover {
-            background: var(--bg-200);
-            color: var(--accent-200);
+            background: var(--primary-100);
+            color: var(--accent-100);
             border-color: var(--accent-100);
         }
 
         .accordion-header.active {
-            background: var(--accent-200);
+            background: var(--accent-100);
             color: var(--bg-100);
-            border-color: var(--accent-200);
+            border-color: var(--accent-100);
             border-radius: 8px 8px 0 0;
         }
 
@@ -124,7 +124,7 @@
             transition: max-height 0.3s ease;
             background: var(--bg-100);
             border-radius: 0 0 8px 8px;
-            border: 1px solid var(--accent-200);
+            border: 1px solid var(--accent-100);
             border-top: none;
         }
 
@@ -151,16 +151,25 @@
         }
 
         .accordion-body strong {
-            color: var(--accent-200);
+            color: var(--accent-100);
         }
 
         .accordion-body em {
-            color: var(--text-200);
+            color: var(--accent-100);
+            font-style: italic;
+        }
+
+        strong {
+            color: var(--accent-100);
+        }
+
+        em {
+            color: var(--accent-100);
             font-style: italic;
         }
 
         a {
-            color: var(--accent-200);
+            color: var(--accent-100);
             text-decoration: none;
         }
 
